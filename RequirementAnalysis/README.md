@@ -22,4 +22,15 @@
 - "Nguyễn Thị Thu Hiền" review cho "Lê Xuân Nam".
 - "Trần Thị Thủy" review cho "Nguyễn Thị Thu Hiền".
 - "Võ Sỹ Hùng" review cho "Trần Thị Thủy".
+
+
  
+# Tuần II: 
+## I. Phân công: 
+- Các thành viên thực hiện đặc tả theo các UC phân rã của tuần I. 
+
+## II. Review: 
+- "Lê Xuân Nam" review cho "Võ Sỹ Hùng". 
+- "Nguyễn Thị Thu Hiền" review cho "Lê Xuân Nam".
+- "Trần Thị Thủy" review cho "Nguyễn Thị Thu Hiền".
+- "Võ Sỹ Hùng" review cho "Trần Thị Thủy".
